@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://omkarpaygude.netlify.app](https://omkarpaygude.netlify.app)
 
-- 💬 Ask me about **React, Django**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **omkarpaygude1109@gmail.com**
 
