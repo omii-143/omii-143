@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **omkarpaygude1109@gmail.com**
 
-- 📄 Know about my experiences [https://omkarpaygude.netlify.app/static/media/Omkar_Paygude_Resume.be57f71ec27b001dadfa.pdf](https://omkarpaygude.netlify.app/static/media/Omkar_Paygude_Resume.be57f71ec27b001dadfa.pdf)
-
 - ⚡ Fun fact **A Mechanical ⚙️Engineering shows extra love❤️ for Computers🖥️ instead of machines 😂😂**
 
 <h3 align="left">Connect with me:</h3>
