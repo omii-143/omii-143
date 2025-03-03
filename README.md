@@ -1,6 +1,6 @@
 # Hi 👋, I'm Omkar Paygude
 
-### A passionate Penetration Tester and Security Researcher with 3 years of experience in Cyber Security
+### A passionate Penetration Tester and Security Researcher.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omii-143&label=Profile%20views&color=0e75b6&style=flat)
 
