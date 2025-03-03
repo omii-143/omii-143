@@ -16,7 +16,7 @@
 
 ## Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Paygude-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omkar-paygude-9721b51a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Paygude-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omkar-paygude)
 [![Twitter](https://img.shields.io/twitter/follow/omkarpaygude5?style=flat-square&logo=twitter)](https://twitter.com/omkarpaygude5)
 
 ## Languages and Tools:
