@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Exploit Development and Reverse Engineering**
 - 👨‍💻 My security research and projects are available at [GitHub Repositories](https://github.com/omii-143)
-- 💬 Ask me about **Web Application Security, Mobile Application Security, Network Penetration Testing, Secure Code Review, Frida, and Objection**
+- 💬 Ask me about **Web Application Security, Mobile Application Security, Network Penetration Testing and Secure Code Review**
 - 📫 Reach me at **omkarpaygude1109@gmail.com**
 - ⚡ Fun fact: **A Mechanical Engineer who found his passion in breaking applications instead of building machines 😂**
 
