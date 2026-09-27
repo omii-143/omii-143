@@ -28,7 +28,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Checkmarx](https://img.shields.io/badge/Checkmarx-003366?style=for-the-badge)
 
-## GitHub Stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=omii-143&show_icons=true&locale=en&layout=compact)
 
